@@ -7,7 +7,7 @@ seletor{
 body{
     font-family: 'Roboto', sans-serif;
     margin: 0;
-    background-color: #222831;
+    background-color: #212a38;
 }
 
 div{
@@ -58,7 +58,7 @@ ul{
 
 /*formatando todos os links que estiverem dentro de uma lista <ul>*/
 ul a{
-    background-color: #2D033B;
+    background-color: #393E46;
     color: #FFFFFF;
     display: block;
     margin-bottom: 5px;
@@ -72,8 +72,8 @@ ul a{
 
 /*ao passar o mouse nos links que estão na <ul>*/
 ul a:hover{
-    background-color: #393E46;
-    color: #000000;
+    background-color: #000000;
+    color: #FFFFFF;
 }
 
 #assinatura{
